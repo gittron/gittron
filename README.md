@@ -1,11 +1,12 @@
 # Gittron
 
 [![freenode][freenode-image]][freenode-url]
-
+[![travis][travis-image]][travis-url]
+[![codecov][codecov-image]][codecov-url]
 
 ### Open Source GUI for Git with Electron which is used to make Atom.
 
-If you would like to help, let me know! 
+If you would like to help, let me know!
 There is a freenode channel for gittron in the #gittron. See badge on the header.
 
 
